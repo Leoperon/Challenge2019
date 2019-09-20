@@ -2,7 +2,7 @@
 
 To start the game follow the given link ;)
 
-[https://leoperon.github.io/KeepGuessing.github.io/](url) 
+[Click here](https://leoperon.github.io/KeepGuessing.github.io/) 
 
 ### Support or Contact
 
